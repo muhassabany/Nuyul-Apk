@@ -1,7 +1,7 @@
 #!/system/bin/bash"
 clear
 echo "\033[90m"
-read -p "Subscribe My Chanel [ y/t ] : " d;
+read -p "Muhas Sabang Next [ y/t ] : " d;
 if [ $d = "y" ]:
 then
    echo "\033[1;93mLoading\033[90m...\033[1;97m"
@@ -22,9 +22,9 @@ echo "\033[1;96m|\ | |  |  \_/  |  | |     \033[1;91m|__| |__] |_/ "
 echo "\033[1;96m| \| |__|   |   |__| |___  \033[1;91m|  | |    | \_"
 echo
 echo "\033[90m{\033[1;91m=====================================\033[90m}"
-echo "\033[90m Coded\033[1;91m  :\033[1;93mRym"
-echo "\033[90m Youtube\033[1;91m:\033[1;93mMaulana RyM"
-echo "\033[90m Github\033[1;91m :\033[1;96mhttps://github.com/MaulanaRyM"
+echo "\033[90m Coded\033[1;91m  :\033[1;93mSABANG"
+echo "\033[90m Youtube\033[1;91m:\033[1;93mMUHAS SABANG"
+echo "\033[90m Github\033[1;91m :\033[1;96mhttps://github.com/Muhassabany"
 echo "\033[90m{\033[1;91m=====================================\033[90m}"
 echo
 echo "\033[90m=\033[1;91m--------------------------\033[90m="
@@ -179,6 +179,6 @@ then
 else
    echo "\033[1;91mWrong Input!!\033[1;97m"
    sleep 2
-   sh bot.sh
+   sh nuyul.sh
 fi
 
